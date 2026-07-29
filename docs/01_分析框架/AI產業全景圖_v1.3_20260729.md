@@ -1,7 +1,7 @@
 # 07_AI產業全景圖.md（AI Ecosystem Map）
 
-> **Status:** Official Knowledge Map（v1.2，Commit 1、Commit 2 均已完成）
-> **Version:** v1.2
+> **Status:** Official Knowledge Map（v1.3，Commit 1、Commit 2 均已完成，判準文字已精確化）
+> **Version:** v1.3
 > **Effective date:** 2026-07-27
 > **Owner:** AI Investment HQ
 > **依循規範：** 本文件之知識結構完全依《AI_Investment_HQ_知識模型治理規範.md》v1.0 組織，若本文件內容與該規範衝突，以規範為準。
@@ -132,6 +132,8 @@ AI運算能力 ──Tech──→ 伺服器系統整合能力
 
 **Knowledge Coverage Policy（知識涵蓋範圍政策）：** 本文件採用**方案 B：全球公開市場導向（Global Public Market Coverage）**——Representative Mapping 原則上收錄具有全球代表性之公開上市公司，作為 Capability Node 的 Representative。
 
+**核心判準（避免未來誤用地區作為收錄依據）：** Representative Mapping 之收錄依據為**公開市場代表性與可驗證性**，不以公司所屬國家或地區作為判準。
+
 具體原則：
 - 收錄判準為「是否為公開上市公司且具全球代表性」，**判準為公開市場地位，不是地區**。日本、韓國、歐洲等地區之公開上市代表公司（如 Tokyo Electron、Disco、Advantest、Shin-Etsu 等），若確實為所屬 Capability Node 之全球公開市場重要代表，應予納入，不因地區而排除。
 - 非公開發行、資訊揭露透明度不足以支持 Evidence First 原則（如無法取得可驗證財報、法說）之企業，除經正式治理決議外，不納入 Representative Mapping；此類公司不論其產業地位或所屬地區為何，均依此一致判準處理，不因特定地區而系統性排除或系統性收錄。
@@ -208,3 +210,4 @@ AI運算能力 ──Tech──→ 伺服器系統整合能力
 | v1.0 | 2026-07-27 | Phase 3：完成一致性檢查。發現並修正一處違規——Chapter 4 原引用 `03_AI基本面追蹤框架.md` 之具體判定邏輯與研究結論，違反 Chapter 1「07 不引用任何研究結論，只定義知識位置」原則，已修正為純結構性描述並改為引用 03 而非闡述其內容。全文重新掃描確認：無公司名稱作為 Node、無產品型號或技術品牌作為 Node、Node 與 Instantiation 兩層分離完整、無財務或時效性內容混入。正式發布 v1.0，同步登錄 `CHANGELOG.md`。 |
 | v1.1 | 2026-07-27 | Commit 1（無爭議公司補充，經三方審查後採納）：Chapter 3／Chapter 6 新增 Entegris（特殊材料供給能力）、Qualcomm／MediaTek（AI運算能力）、NVIDIA（新增為網路互連能力代表，驗證多重 Capability Node 代表之正常情況）、Ciena／Lumentum（網路互連能力）、Lenovo（伺服器系統整合能力）；AI運算能力新增 Google／Amazon／Microsoft 作為自研 ASIC 路線代表公司（不收錄 TPU／Trainium／Maia 等產品名稱，以符合 Node 不含產品層之規範）。新增「Representative Mapping 原則」（每 Capability Node 維持 5–10 家長期代表公司，不因短期熱度或新創興衰頻繁調整）至 Chapter 6 開頭。Commit 2（中國／日本供應鏈是否納入、Knowledge Coverage Policy 之確立）留待使用者另行決策，本次不處理。 |
 | v1.2 | 2026-07-27 | Commit 2（使用者決策確立，經三方審查修正政策定義精確度）：正式採用**方案 B：全球公開市場導向（Global Public Market Coverage）**作為 Knowledge Coverage Policy，寫入 Chapter 6。**收錄判準為「公開市場地位」，不是「地區」**——日本、韓國、歐洲等地區之公開上市代表公司應與其他地區公司採一致判準評估，不因地區而系統性排除或系統性收錄。依此判準，晶圓製造設備能力新增迪思科（Disco）、愛德萬測試（Advantest）等日本公開市場代表公司。原 v1.1 之政策文字曾將「日本供應鏈」與「中國供應鏈」混為一談列為同一類待決事項，經修正後明確：日本之公開上市代表公司依方案 B 判準應予收錄，非公開發行或資訊揭露不足之企業（不限特定地區）方為排除對象。本政策為預設收錄政策，變更須依知識模型治理規範 RFC 流程處理。 |
+| v1.3 | 2026-07-27 | 判準精確化（非治理方向改變）：於 Knowledge Coverage Policy 開頭新增核心判準句——「Representative Mapping 之收錄依據為公開市場代表性與可驗證性，不以公司所屬國家或地區作為判準」，將公開市場、可驗證資訊、Representative Mapping 三者一次綁定，避免未來協作者以地區（如「日本」「中國」「美國」）作為收錄邏輯之思考起點。本次修正屬 07 文件內部文字精確化，不涉及 Constitution 或知識模型治理規範之上位規則調整。 |
