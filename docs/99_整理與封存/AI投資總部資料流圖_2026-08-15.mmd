@@ -1,0 +1,35 @@
+flowchart TD
+    C[AI投資總部憲章\n最高治理與SSOT] --> I[AI投資總部知識索引\n唯一知識入口]
+    C --> G[AI協作治理架構\n角色、閘門、權限、交接]
+    C --> O[正式輸出格式規範\n九欄、固定值、Self-QA]
+    I --> S[每日戰情室作業規範\n每日情報統合與正式輸出]
+    I --> F[AI基本面追蹤框架\n決策層唯一依據]
+    I --> R[研究文件\nAI知識／市場知識]
+    I --> P[家庭投資中心\n最新持股資料]
+    I --> RC[正式風控規格書\nMA21/81 + 100/80/80/0]
+    RC --> RO[風控官正式指令工作\n每日風控判定]
+    S --> D[分析閘門\n資訊統合、分級、九欄、決策層]
+    P --> D
+    F --> D
+    R --> D
+    RO --> D
+    C --> D
+    CIO[CIO\n唯一最終裁定者] --> W[今日工作區原始情報]
+    W --> D
+    E[情報閘門\n來源蒐集與證據整理] --> D
+    D --> X{是否需要深度研究／反證？}
+    X -- 否 --> CIO
+    X -- 是 --> A[對抗閘門\n深度研究、交叉驗證、壓力測試]
+    A --> D
+    D --> QA[正式輸出前Self-QA]
+    QA --> CIO
+    CIO --> FOUT[正式輸出／Drive存檔／版本紀錄]
+
+    classDef governance fill:#f1f5f9,stroke:#334155,color:#0f172a;
+    classDef workflow fill:#e0f2fe,stroke:#0369a1,color:#0c4a6e;
+    classDef risk fill:#fef3c7,stroke:#b45309,color:#78350f;
+    classDef decision fill:#dcfce7,stroke:#15803d,color:#14532d;
+    class C,I,G,O governance;
+    class S,F,R,P,D,E,W,QA workflow;
+    class RC,RO risk;
+    class CIO,X,A,FOUT decision;
