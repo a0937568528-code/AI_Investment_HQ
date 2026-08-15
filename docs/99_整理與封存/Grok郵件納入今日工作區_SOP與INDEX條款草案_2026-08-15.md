@@ -149,8 +149,8 @@ CIO 直送內容與經核准的 Grok 正式資訊來源均可進入今日工作�
 
 | 文件 | 建議動作 | CIO 核准前 | CIO 核准後 |
 |---|---|---|---|
-| Daily War Room SOP | 新增外部原始情報輸入介面與資料契約 | 保留草案，不改 v2.3 | 升版為 v2.4，補 Diff Summary 與生效日 |
-| AI Investment HQ INDEX | 新增 Grok→Drive 導航條目與候選輸入說明 | 不改 v1.3 | 升版為 v1.4，引用 SOP 現行版本 |
+| Daily War Room SOP | 新增 Grok 正式資訊來源與 Manus 驗證介面及資料契約 | 保留草案，不改 v2.3 | 升版為 v2.4，補 Diff Summary 與生效日 |
+| AI Investment HQ INDEX | 新增 Grok→Drive 正式資訊來源與 Manus 驗證導航條目 | 不改 v1.3 | 升版為 v1.4，引用 SOP 現行版本 |
 | AI Investment HQ Constitution | 原則上不改；若 CIO 要把外部來源提升為正式治理來源才另案修訂 | 不改 | 視裁定另案處理 |
 | AI協作治理架構 | 不因資料流新增角色或閘門 | 不改 | 除非另有角色／權限裁定 |
 | Risk Control 規格與風控官指令 | 不改 | 不改 | 不因 Grok 輸入而改動 |
