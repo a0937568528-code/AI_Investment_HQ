@@ -1,11 +1,11 @@
 # AI Investment HQ｜正式基線與操作備忘錄
 
-> **文件狀態：** Official（正式生效）  
-> **正式版本：** v1.0  
-> **生效日：** 2026-08-15  
-> **文件分類：** 治理文件（作業參照）  
-> **正式歸檔位置：** Google Drive `Governance` 資料夾  
-> **文件所有者：** AI Investment HQ  
+> **文件狀態：** Official（正式生效）
+> **正式版本：** v1.1
+> **生效日：** 2026-08-15（v1.0）；2026-08-19（v1.1 路由與歸檔文字對齊）
+> **文件分類：** 治理文件（作業參照）
+> **正式歸檔位置：** Google Drive `Governance` 資料夾
+> **文件所有者：** AI Investment HQ
 > **起草者：** Manus AI
 
 ## 一、文件定位與使用原則
@@ -76,7 +76,7 @@ MA21／MA81＋100／80／80／0 是正式風控模型的唯一規格來源。極
 
 ### 4.5 晚間結束與留痕
 
-正式分析完成後，應保留採用的來源、資料時間、引用連結、重要計算或例外狀態、研究交接紀錄、CIO 裁定與最終版本。已確認、可直接引用的正式性資料，應歸檔至適當正式資料夾；尚未經 CIO 確認的一般草稿，預設先放入 `09_給 Manus 深度研究閘門/New`，不得直接進入正式資料夾。[3]
+正式分析完成後，應保留採用的來源、資料時間、引用連結、重要計算或例外狀態、研究交接紀錄、CIO 裁定與最終版本。已確認、可直接引用的正式性資料，應歸檔至適當正式資料夾；尚未經 CIO 確認的一般草稿，預設先放入 `09_給Manus/New`，不得直接進入正式資料夾。[3]
 
 「今日完畢」只代表停止當日工作並提供簡短交接狀態，不代表產出結案摘要、不代表自動封存正式材料，也不代表本案已完成治理裁定。只有 CIO 明確表示「本案結案」或等同語意時，才產出結案摘要與封存清單。[3]
 
@@ -168,11 +168,12 @@ MA21／MA81＋100／80／80／0 是正式風控模型的唯一規格來源。極
 | 版本 | 日期 | 變更 |
 |---|---|---|
 | v1.0 | 2026-08-15 | 經 CIO 明確裁定，將核准前定稿正式化為 Official；確認文件分類為治理文件（作業參照），歸檔至 Google Drive `Governance` 資料夾。本次為現行治理規則之彙整與正式定位，不新增角色權限、分析框架或風控模型規則。 |
+| v1.1 | 2026-08-19 | 依 CIO 核可，將一般性草稿歸檔路由文字對齊為 `09_給Manus/New`；本次僅修正路徑文字與版本留痕，不新增權限、風控模型、H0–H4 或排程授權。 |
 
 ## 參考資料
 
-[1]: https://drive.google.com/open?id=19Ih_WljNIgZph7aAUxiTbidR6srm0aRS "AI 投資總部知識索引"
-[2]: https://drive.google.com/open?id=10_qMbWK0F0xQmuxIRDS81NIUi21o-4VZ "AI 投資總部憲章"
+[1]: https://drive.google.com/file/d/1ZyvVAs06iZyUb3JrEg-QiNsOziYDqeTr/view?usp=drivesdk "AI 投資總部知識索引 v1.5"
+[2]: https://drive.google.com/file/d/1v65lEx9rW8dhOAORK9IjeqQxogfPOyOQ/view?usp=drivesdk "AI 投資總部憲章 v1.9.1"
 [3]: https://drive.google.com/open?id=1CCPdRobGP4uWazqxfcjNyIdDZQnG6nzp "每日戰情室作業規範 v2.5"
 [4]: https://drive.google.com/open?id=1wqDrWOiq1LxTQv77e423IiSbJVSBrZMl "AI 協作治理架構"
 [5]: https://drive.google.com/open?id=10dMLykTqQ9FFnlP9v2NDHO0z8oe_Q-Kh "GR-2026-08-15-001｜架構轉移 Diff 報告"

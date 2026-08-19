@@ -5,8 +5,8 @@
 # AI Investment HQ Knowledge Index
 
 > **Status:** Official Single Source of Truth
-> **Version:** v1.4
-> **Effective date:** 2026-07-29（v1.0）；2026-07-28 收錄 Governance Framework 條目，回補於本次 v1.1 合併；2026-08-11（v1.2 收錄風控體系條目）；2026-08-11（v1.3 同步引用文件版號規則調整，並移除文件引用中之版號標示）；2026-08-15（v1.4 收錄正式基線與操作備忘錄）
+> **Version:** v1.5
+> **Effective date:** 2026-07-29（v1.0）；2026-07-28 收錄 Governance Framework 條目，回補於本次 v1.1 合併；2026-08-11（v1.2 收錄風控體系條目）；2026-08-11（v1.3 同步引用文件版號規則調整，並移除文件引用中之版號標示）；2026-08-15（v1.4 收錄正式基線與操作備忘錄）；2026-08-19（v1.5 同步治理總覽與已核可但未生效政策狀態）
 > **Owner:** AI Investment HQ
 
 本文件為 AI Investment HQ 唯一知識入口（Single Source of Truth）。之後 Daily War Room、Event Update、Quarterly Review 均以本 Index 作為引用順序。
@@ -36,6 +36,10 @@ Portfolio 為家庭投資中心唯一持股來源（Single Source of Truth）。
 `AI協作治理架構.md`（Governance Framework）
 
 用途：定義 AI Investment HQ 多代理協作制度、角色權責（情報閘門／分析閘門／對抗閘門／CIO）、角色權限矩陣、資訊交接規範、正式交接流程、決策權治理、正式知識治理、文件關係。與 Constitution、本 INDEX 維持並列正式文件，不建立新的上下階層關係。
+
+`治理架構總覽.md`
+
+用途：Governance 正式總覽入口，彙整角色、文件分區、資料流與現行治理路由；不得取代 Constitution、AI協作治理架構或本 INDEX。
 
 `AI_Investment_HQ_正式基線與操作備忘錄.md`
 
@@ -152,3 +156,4 @@ Official Daily War Room
 | v1.2 | 2026-08-11 | 新增獨立章節「Risk Control」，收錄 `MA21-81_100-80-80-0_正式規格書.md`（AI Investment HQ 唯一正式風險控制模型規格）與 `風控官正式指令工作.md`（每日執行介面）；Analysis Execution Order 新增步驟5引用規格書；Daily War Room 引用順序新增 Step 4「Risk Control」。本次為 2026-08-11「20%極端波動附則正式啟用」治理程序之 Phase 5，僅新增文件導航條目，不涉及風控模型規則本體。詳見 GR-2026-08-11-001、《治理決策紀錄》第二篇、《AI投資總部憲章》v1.8.0。 |
 | v1.3 | 2026-08-11 | 新增「版號標示規則」說明區塊；移除全文所有文件引用中之版號標示（如 `AI基本面追蹤框架.md`、`AI成長股估值監測框架.md`、`04_AI基礎建設投資分析.md`、`Seasonality_Strategy_TW_2009_2026.md` 等，均改為不帶版號之檔名引用），改以「引用該文件現行最新正式版本」為原則。不涉及任何文件實際規則內容、Decision Layer、Risk Control 或治理規則之變更，屬索引引用格式調整。 |
 | v1.4 | 2026-08-15 | 收錄 `AI_Investment_HQ_正式基線與操作備忘錄.md` 為現行治理／作業參照文件，補充其用途與不得取代上位文件之定位；本次僅更新文件導航與正式文件地圖，不新增治理規則。 |
+| v1.5 | 2026-08-19 | 依 CIO 全項核可，補登 `治理架構總覽.md` 為 Governance 現行總覽入口；保留 `風險管理政策` 為已核可處理但尚未生效之政策草稿，不提前納入現行正式引用順序。本次不制度化研究類 C-13／C-14，不修改風控模型或 H0–H4。 |
