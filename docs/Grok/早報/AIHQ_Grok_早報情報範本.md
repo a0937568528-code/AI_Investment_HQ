@@ -4,11 +4,11 @@
 
 ## 標題與資料截止
 
-**報告標題：** AI Investment HQ｜早報情報採集包｜【YYYY年MM月DD日美股收盤／台股開盤前】  
-**時區：** Asia/Taipei  
-**資料截止：** 【YYYY-MM-DD HH:MM Asia/Taipei】  
-**最近美股有效交易日：** 【YYYY-MM-DD】  
-**台股狀態：** 【下一交易日／非交易日／待確認】  
+**報告標題：** AI Investment HQ｜早報情報採集包｜【YYYY年MM月DD日美股收盤／台股開盤前】
+**時區：** Asia/Taipei
+**資料截止：** 【YYYY-MM-DD HH:MM Asia/Taipei】
+**最近美股有效交易日：** 【YYYY-MM-DD】
+**台股狀態：** 【下一交易日／非交易日／待確認】
 **本次查詢時間：** 【YYYY-MM-DD HH:MM Asia/Taipei】
 
 ## 一、資料品質摘要
