@@ -1,5 +1,25 @@
 # AI Investment HQ — 更新日誌（CHANGELOG）
 
+## [Drive／GitHub 版本對齊] — 2026-08-20
+
+### Changed
+
+- 依 CIO 核可，回讀確認 Google Drive `正式輸出格式規範_v1.8.md` 與 GitHub `docs/正式輸出格式規範.md` 內容一致；Drive 現行 file ID 為 `1CYHLbO6cSzS1sRE5cbH4GIwqK4yqNPRo`，GitHub 基準提交為 `609c2c69bee9a4a8f86894314870c330a6ab94ae`。
+- Google Drive 與 GitHub 的 `AI供應鏈關聯公司清單.md` 均為 v1.2；差異僅為 Markdown 行尾空白，不改變內容語義。
+- 將本次跨系統處置表與 Diff Summary 納入 `docs/治理紀錄/`，作為後續同步與回滾依據。
+
+### Governance note
+
+- 本次不修改 MA21／MA81、100/80/80/0、模型參數、正式水位、極端波動附則、H0–H4 順序、家庭投資中心 SSOT、行動層、交易權限或 CIO 最終裁定權。
+- 不永久刪除 Drive 歷史檔，不啟用新的長期排程，不自動同步 G大／外部角色 Instructions。
+
+### Synchronized documents
+
+- `docs/正式輸出格式規範.md`（v1.8）
+- `docs/AI供應鏈關聯公司清單.md`（v1.2）
+- `docs/治理紀錄/Diff_Summary_2026-08-20_Drive_GitHub_版本對齊.md`
+- `docs/治理紀錄/Drive_GitHub_版本對齊處置表_2026-08-20.md`
+
 ## [正式輸出格式規範 v1.8／早報資料可用性示警精簡呈現] — 2026-08-20
 
 ### Changed
