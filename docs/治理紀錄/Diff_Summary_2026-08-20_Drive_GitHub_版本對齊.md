@@ -4,7 +4,7 @@
 **核可者：** CIO
 **執行方式：** 一次性、可追溯的無人值守同步批次
 **GitHub：** `a0937568528-code/AI_Investment_HQ`
-**基準提交：** `609c2c69bee9a4a8f86894314870c330a6ab94ae`
+**基準提交：** `be60a763f8cb05c166764912cf00d45921a0dc00`
 
 ## 變更摘要
 
@@ -20,4 +20,4 @@ MA21／MA81、100／80／80／0 風控正式規格書 v1.3 與風控官正式指
 
 ## 驗收要求
 
-同步驗收狀態：Drive 現行檔已為 v1.8、v1.7 歷史檔仍可定位；CHANGELOG 與供應鏈 v1.2 已寫回 Drive；GitHub 遠端基準提交可回讀；風控 v1.3／風控官 v1.1 雜湊保持一致。本 Diff Summary 與處置表已歸檔於 Drive Governance，並準備提交至 GitHub `docs/治理紀錄/`。
+同步驗收狀態：Drive 現行檔已為 v1.8、v1.7 歷史檔仍可定位；CHANGELOG 與供應鏈 v1.2 已寫回 Drive；GitHub 遠端基準提交可回讀；風控 v1.3／風控官 v1.1 雜湊保持一致。本 Diff Summary 與處置表已歸檔於 Drive Governance，並已提交至 GitHub `docs/治理紀錄/`，本輪最終提交為 `be60a763f8cb05c166764912cf00d45921a0dc00`。
